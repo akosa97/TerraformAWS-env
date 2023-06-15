@@ -1,5 +1,5 @@
 # TerraformAWS-environment
-creates a secure AWS environment with VPC, subnets, security groups, and an IAM role that a developer can use to deploy EC2 instances
+terraform code that creates a secure AWS environment with VPC, subnets, security groups, and an IAM role that a developer can use to deploy EC2 instances
 
 # Prerequisites
 Terraform Installation: Make sure you have Terraform installed on your local machine. You can download and install Terraform by following the instructions in the official Terraform documentation: Terraform Installation Guide.
